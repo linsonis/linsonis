@@ -1,16 +1,17 @@
-## Hi there 👋
+## welcome!
+I'm a third year computer science major with an interest in systems, networking, robotics, and all sorts of back-end infrastructure.
 
-<!--
-**linsonis/linsonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## tech i use
+**languages:** C/C++, python, java, risc-v assembly
 
-Here are some ideas to get you started:
+**tools:** linux, git/github actions, docker, bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### currently learning...
+- sqlite
+- mongodb
+- prometheus/grafana
+- rust
+
+## my current interests
+- homelabbing
+- linux configuring/ricing
