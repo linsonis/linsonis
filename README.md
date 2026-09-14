@@ -14,4 +14,4 @@ I'm a third year computer science major with an interest in systems, networking,
 
 ## my current interests
 - homelabbing
-- linux configuring/ricing
+- linux configuring/ricing (see my dotfiles [here](https://github.com/linsonis/dotfiles))
