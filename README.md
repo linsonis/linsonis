@@ -1,5 +1,5 @@
 ## welcome!
-I'm a third year computer science major with an interest in systems, networking, robotics, and all sorts of back-end infrastructure.
+I'm a third year computer science major at UofA with an interest in systems, networking, robotics, and all sorts of back-end infrastructure.
 
 ## tech i use
 **languages:** C/C++, python, java, risc-v assembly
@@ -15,3 +15,4 @@ I'm a third year computer science major with an interest in systems, networking,
 ## my current interests
 - homelabbing
 - linux configuring/ricing (see my dotfiles [here](https://github.com/linsonis/dotfiles))
+- source engine movement
