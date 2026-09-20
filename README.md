@@ -15,4 +15,3 @@ I'm a third year computer science major at UofA with an interest in systems, net
 ## my current interests
 - homelabbing
 - linux configuring/ricing (see my dotfiles [here](https://github.com/linsonis/dotfiles))
-- source engine movement
